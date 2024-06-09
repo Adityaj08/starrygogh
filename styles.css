@@ -444,7 +444,7 @@ body::-webkit-scrollbar {
     right: 50%;
     transform: translate(-50%,-50%);
     height: 45px;
-    max-width: 320px;
+    max-width: 350px;
     width: 38vmax;
     border-radius: 3px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -456,7 +456,7 @@ body::-webkit-scrollbar {
 
 .footer .twitter p{
     padding: 0 10px;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 600;
 }
 
@@ -558,5 +558,11 @@ body::-webkit-scrollbar {
 
     .footer .footer-text{
         font-size: 1.5rem;
+    }
+    .footer .twitter{
+        max-width: 300px
+    }
+    .footer .twitter p{
+        font-size: 0.7rem
     }
 } 
