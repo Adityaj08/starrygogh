@@ -444,7 +444,7 @@ body::-webkit-scrollbar {
     right: 50%;
     transform: translate(-50%,-50%);
     height: 45px;
-    max-width: 350px;
+    max-width: 320px;
     width: 38vmax;
     border-radius: 3px;
     background-color: rgba(0, 0, 0, 0.9);
